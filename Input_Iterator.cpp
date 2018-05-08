@@ -8,6 +8,7 @@ InputIterator is a useful but limited class of iterators. If iter is an InputIte
 
 #include <iostream>
 #include <vector>
+#include <iterator>
 
 int main() {
 	std :: vector <int> myVector;
