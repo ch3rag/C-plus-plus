@@ -1,3 +1,11 @@
+/*
+InputIterator is a useful but limited class of iterators. If iter is an InputIterator, you can use:
+
+1. ++iter and iter++ to increment it, i.e., advance the pointer to the next element
+2. *iter to dereference it, i.e., get the element pointed to
+3. == and != to compare it another iterator (typically the "end" iterator)
+*/
+
 #include <iostream>
 #include <vector>
 
