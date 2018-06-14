@@ -70,9 +70,5 @@ class Set {
 		int getLength() {
 			return setList.size();
 		}
-
-
 };
-
-
 #endif 
